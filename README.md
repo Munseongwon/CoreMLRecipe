@@ -1,5 +1,5 @@
 # CoreMLRecipe
-CoreML을 활용하여 레시피를 만들어보았습니다
+ - CoreML을 활용하여 레시피를 만들어보았습니다
 
 # 어떤 언어를 사용하였는가?
  - Swift
