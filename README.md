@@ -10,4 +10,6 @@ CoreML을 활용하여 레시피를 만들어보았습니다
  - 이미지가 선택되면, recipe 버튼을 클릭하면 각 모델마다 레시피가 분류되어 나오게 됨
 
 # 화면
-![CoreMLModelApp  스위프트 어플리케이션](https://user-images.githubusercontent.com/96816327/204754219-a01ffd0e-6a34-48d9-82c6-3329949a7eb2.png)
+![CoreMLModelApp  스위프트 어플리케이션](https://user-images.githubusercontent.com/96816327/205233412-3b6fdd21-acd8-44d8-82c9-92b924468934.png)
+
+
