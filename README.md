@@ -7,7 +7,7 @@
 # 화면 구조는 어떻게 되는가?
  - Splash 화면
  - ImagePicker를 통한 이미지 선택 및 이미지 모델링 작업(분류: 양파 혹은 토마토)
- - 이미지가 선택되면, recipe 버튼을 클릭하면 각 모델마다 레시피가 분류되어 나오게 됨
+ - 이미지가 선택되면, 레시피 뷰가 화면에 떠오를 수 있도록 함
 
 # 화면
 ![CoreMLModelApp  스위프트 어플리케이션](https://user-images.githubusercontent.com/96816327/205233412-3b6fdd21-acd8-44d8-82c9-92b924468934.png)
