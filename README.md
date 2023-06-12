@@ -1,8 +1,8 @@
-# 영화 리스트 검색 어플리케이션 [MDB]
-### Movie Database Application
+# 이미지 분류 모델 레시피 어플리케이션[CRA]
+### CoreML Recipe Application
 <img src='1.png' alt='ListScreen' height=400px/> <img src='2.png' alt='ListScreen' height=400px/><img src='3.png' alt='DetailScreen' height=400px/> <img src='4.png' alt='DetailScreen' height=400px/>
 ## 프로젝트 요약
-![Langauge:Dart](https://img.shields.io/badge/Language-Flutter-blue) ![platform:CrossPlatForm](https://img.shields.io/badge/Platform-CrossPlatfrom-blue)
+![Langauge:Swift](https://img.shields.io/badge/Language-Swift-green) ![platform:IOS](https://img.shields.io/badge/Platform-IOS-green)
 > 2023.02.01 - 2023.03.08   
  
 > **Flutter 개인 프로젝트**
