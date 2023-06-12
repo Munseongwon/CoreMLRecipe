@@ -5,7 +5,7 @@
 ![Langauge:Swift](https://img.shields.io/badge/Language-Swift-green) ![platform:IOS](https://img.shields.io/badge/Platform-IOS-green)
 > 2023.02.01 - 2023.03.08   
  
-> **Flutter 개인 프로젝트**
+> **IOS 2인 프로젝트**
 * IMDB와 같이 영화 리스트 목록에서 볼 만한 영화를 검색하는 어플리케이션입니다.
 * 어플리케이션 메인 화면에서는 찾는 영화, 순위권 영화, 현재 상영 영화를 페이징 처리 위젯으로 감싸 손가락을 넘기면서 정보를 확인할 수 있도록 하였습니다.
 * 해당 영화 목록 상세페이지에서는 영화에 대한 정보 및 예고편 유튜브 영상이 포함되어 있습니다.
