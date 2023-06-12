@@ -1,7 +1,6 @@
 # 영화 리스트 검색 어플리케이션 [MDB]
 ### Movie Database Application
-<img src='1.png' alt='ListScreen' height=400px/> <img src='CaptureImg/ListScreen(2).png' alt='ListScreen' height=400px/><img src='CaptureImg/DetailScreen(1).png' alt='DetailScreen' height=400px/> <img src='CaptureImg/DetailScreen(2).png' alt='DetailScreen' height=400px/><img src='CaptureImg/SearchScreen.png' alt='Search' height=400px/> <img src='CaptureImg/SearchResultScreen.png' alt='SearchResult' height=400px/><img src='CaptureImg/YoutubeScreen.png' alt='Youtube' height=400px/>
-
+<img src='1.png' alt='ListScreen' height=400px/> <img src='2.png' alt='ListScreen' height=400px/><img src='3.png' alt='DetailScreen' height=400px/> <img src='4.png' alt='DetailScreen' height=400px/>
 ## 프로젝트 요약
 ![Langauge:Dart](https://img.shields.io/badge/Language-Flutter-blue) ![platform:CrossPlatForm](https://img.shields.io/badge/Platform-CrossPlatfrom-blue)
 > 2023.02.01 - 2023.03.08   
