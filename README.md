@@ -1,6 +1,6 @@
 # 이미지 분류 모델 레시피 어플리케이션[CRA]
 ### CoreML Recipe Application
-<img src='1.png' alt='ListScreen' height=200px/> <img src='2.png' alt='ListScreen' height=200px/><img src='3.png' alt='DetailScreen' height=200px/> <img src='4.png' alt='DetailScreen' height=200px/>
+<img src='1.png' alt='ListScreen' height=300px/> <img src='2.png' alt='ListScreen' height=300px/><img src='3.png' alt='DetailScreen' height=300px/> <img src='4.png' alt='DetailScreen' height=300px/>
 ## 프로젝트 요약
 > 2022.10.12 - 2023.12.07<br>
 
