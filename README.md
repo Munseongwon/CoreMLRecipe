@@ -2,7 +2,7 @@
 ### CoreML Recipe Application
 <img src='1.png' alt='ListScreen' height=300px/> <img src='2.png' alt='ListScreen' height=300px/><img src='3.png' alt='DetailScreen' height=300px/> <img src='4.png' alt='DetailScreen' height=300px/>
 ## 프로젝트 요약
-> 2022.10.12 - 2023.12.07<br>
+> 2022.10.12 - 2022.12.07<br>
 
 > **Model Classification & IOS Developer**   
 * 양파, 토마토 이미지를 모델화하여 이미지에 맞는 레시피를 가져오도록 기획하였습니다.
