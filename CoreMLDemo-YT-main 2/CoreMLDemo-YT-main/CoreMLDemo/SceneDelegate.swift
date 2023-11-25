@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  CoreMLDemo
 //
-//  Created by Afraz Siddiqui on 3/18/21.
+//  Created by 성원
 //
 
 import UIKit
